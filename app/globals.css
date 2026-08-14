@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Larger base size for readability — Tailwind's text-* utilities are
+     rem-based, so this scales all text (and rem-based spacing) site-wide. */
+  font-size: 137.5%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #ffffff;
+  color: #1B1E2B;
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+/* UPA brand tokens */
+:root {
+  --upa-pink: #E91E8C;
+  --upa-pinkdark: #B31570;
+  --upa-mint: #00B894;
+  --upa-ink: #1B1E2B;
+}
+
+.gradient-upa {
+  background: linear-gradient(135deg, #E91E8C 0%, #B31570 100%);
+}
+
+/* Custom component classes live in the "components" layer so that any
+   Tailwind utility class added alongside them (e.g. className="eyebrow
+   bg-white/10") always wins in the cascade, regardless of source order. */
+@layer components {
+  .section {
+    @apply py-20 px-4;
+  }
+
+  .container-page {
+    @apply max-w-7xl mx-auto;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-upa-pink bg-upa-lightpink rounded-full px-3 py-1.5;
+  }
+
+  .btn-primary {
+    @apply bg-upa-pink text-white px-6 py-3 rounded-xl font-semibold shadow-sm hover:bg-upa-pinkdark hover:shadow-md transition-all duration-200 cursor-pointer inline-flex items-center justify-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply bg-upa-ink text-white px-6 py-3 rounded-xl font-semibold hover:bg-opacity-90 transition-all duration-200 cursor-pointer inline-flex items-center justify-center gap-2;
+  }
+
+  .btn-outline {
+    @apply border-2 border-upa-ink/15 text-upa-ink px-6 py-3 rounded-xl font-semibold hover:border-upa-pink hover:text-upa-pink transition-all duration-200 cursor-pointer inline-flex items-center justify-center gap-2;
+  }
+
+  .btn-outline-inverse {
+    @apply border-2 border-white/70 text-white px-6 py-3 rounded-xl font-semibold hover:bg-white hover:text-upa-pink transition-all duration-200 cursor-pointer inline-flex items-center justify-center gap-2;
+  }
+
+  .card-shadow {
+    @apply shadow-card hover:shadow-lg transition-shadow duration-300;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-upa-pink focus:outline-none transition-colors bg-white;
+  }
+}

@@ -1,0 +1,48 @@
+╔════════════════════════════════════════════════════════════════╗
+║                  SUBIR UPACARE A GITHUB - 1 PASO               ║
+╚════════════════════════════════════════════════════════════════╝
+
+🎯 TODO LO QUE TIENES QUE HACER:
+
+1️⃣  DESCARGAR ESTA CARPETA COMPLETA
+
+2️⃣  ABRIR LA CARPETA QUE DESCARGASTE
+
+3️⃣  BUSCAR EL ARCHIVO: "upload-github.bat"
+
+4️⃣  HACER DOBLE CLICK EN ESE ARCHIVO
+
+5️⃣  ESPERAR 30 SEGUNDOS
+
+✅ LISTO! Tu código está en GitHub automáticamente
+
+
+═══════════════════════════════════════════════════════════════
+
+¿QUÉ HACE EL ARCHIVO?
+
+El archivo "upload-github.bat" hace TODO automáticamente:
+- ✅ Conecta con GitHub
+- ✅ Sube todos los archivos
+- ✅ Configura el repositorio
+- ✅ Listo para Vercel
+
+═══════════════════════════════════════════════════════════════
+
+🚀 DESPUÉS (Vercel):
+
+1. Abre: https://vercel.com
+2. Login: info@upaentertainment.com
+3. Click "Add New" → "Project"
+4. Busca "upacare-marketplace" (de GitHub)
+5. Click "Import"
+6. Click "Deploy"
+7. Espera 3-5 minutos
+8. ¡TU SITIO ESTÁ EN VIVO!
+
+═══════════════════════════════════════════════════════════════
+
+Si algo no funciona, contacta: info@upaentertainment.com
+
+Creado: Agosto 13, 2026
+Status: 🟢 Listo para producción
