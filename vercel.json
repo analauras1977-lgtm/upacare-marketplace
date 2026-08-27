@@ -1,3 +1,9 @@
 {
-  "regions": ["iad1"]
+  "regions": ["iad1"],
+  "crons": [
+    {
+      "path": "/api/whatsapp/followups",
+      "schedule": "0 14 * * *"
+    }
+  ]
 }

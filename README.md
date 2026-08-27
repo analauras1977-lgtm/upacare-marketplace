@@ -17,6 +17,7 @@ Plataforma moderna para conectar familias con niñeras profesionales verificadas
 - ✅ SEO / AIO: metadata real por página, JSON-LD (LocalBusiness, FAQPage, Service, Person), `sitemap.xml`, `robots.txt` (permite bots de IA) y `llms.txt`
 - ✅ Integración con Stripe (pagos) — pendiente de conectar keys reales
 - ✅ Autenticación segura — pendiente de conectar backend
+- ✅ Agente de WhatsApp con IA (Claude) que responde consultas de clientes en base a precios/políticas reales de UPA — ver [`WHATSAPP-AGENT.md`](./WHATSAPP-AGENT.md)
 
 ## 🛠️ Tecnología
 
@@ -82,6 +83,10 @@ JWT_SECRET=tu_string_secreto_aleatorio
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=tu_google_maps_api_key
 NEXT_PUBLIC_SITE_URL=https://upacare-marketplace.vercel.app
 ```
+
+Para el agente de WhatsApp hacen falta variables adicionales (`WHATSAPP_TOKEN`,
+`ANTHROPIC_API_KEY`, etc.) — ver el detalle completo en
+[`WHATSAPP-AGENT.md`](./WHATSAPP-AGENT.md).
 
 ## 🔧 Instalación Local (Desarrollo)
 
