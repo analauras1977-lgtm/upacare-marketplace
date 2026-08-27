@@ -83,7 +83,7 @@ UPA_ADMIN_WHATSAPP_NUMBER=   # tu número en formato E.164 sin el "+", ej: 15613
 
 # Claude
 ANTHROPIC_API_KEY=
-ANTHROPIC_MODEL=claude-sonnet-4-5   # opcional, este es el default
+ANTHROPIC_MODEL=claude-sonnet-5     # opcional, este es el default
 
 # Seguridad del cron job de seguimientos (opcional pero recomendado en producción)
 CRON_SECRET=                 # string aleatorio; Vercel lo manda automáticamente

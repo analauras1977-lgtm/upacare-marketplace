@@ -6,7 +6,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { renderCatalogForPrompt } from './upaCatalog';
 
-const MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-4-5';
+const MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-5';
 
 const SYSTEM_PROMPT = `Sos el asistente de WhatsApp de UPA Entertainment, una empresa de South Florida (Miami-Dade y Broward) con ~25 años de trayectoria.
 
