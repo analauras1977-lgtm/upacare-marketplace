@@ -7,7 +7,7 @@ const COPY = {
   en: {
     title: 'Invite & Earn',
     familyDesc: 'Invite a friend and you both get a $20 credit toward your next booking once they complete theirs.',
-    nannyDesc: 'Refer another caregiver and you both earn a $25 bonus after their first completed job.',
+    nannyDesc: 'Refer another nanny and you both earn a $25 bonus after their first completed job.',
     cta: 'Get my invite link',
   },
   es: {

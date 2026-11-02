@@ -1,4 +1,4 @@
-// Shared nanny/caregiver data used across the marketplace.
+// Shared nanny data used across the marketplace.
 // In production this would come from the database (MongoDB) via /app/api routes.
 
 export const LANGUAGE_LABELS = {
