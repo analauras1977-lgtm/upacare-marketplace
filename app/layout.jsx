@@ -59,9 +59,9 @@ const organizationJsonLd = {
   name: 'UpaCare',
   legalName: 'UPA Entertainment',
   description:
-    'UpaCare is a marketplace that connects families in Miami, Florida with ID-verified, background-checked nannies and babysitters. Verification is included free of charge for every caregiver. Families pay only when they book — there is no mandatory monthly membership. UpaCare also provides on-demand babysitting for hotels, corporate offices and events.',
+    'UpaCare is a marketplace that connects families in Miami, Florida with ID-verified, background-checked nannies and babysitters. Verification is included free of charge for every nanny. Families pay only when they book — there is no mandatory monthly membership. UpaCare also provides on-demand babysitting for hotels, corporate offices and events.',
   url: siteUrl,
-  telephone: '+1-561-367-5662',
+  telephone: '+1-786-444-2125',
   email: 'info@upaentertainment.com',
   areaServed: { '@type': 'City', name: 'Miami', containedInPlace: { '@type': 'State', name: 'Florida' } },
   address: {

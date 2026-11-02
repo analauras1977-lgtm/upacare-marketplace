@@ -8,7 +8,7 @@ import { NANNIES, LANGUAGE_LABELS } from '../lib/nannies';
 const translations = {
   en: {
     browse_nannies: 'Browse Nannies',
-    subtitle: 'Every caregiver below is ID-verified and background-checked, at no extra cost to you.',
+    subtitle: 'Every nanny below is ID-verified and background-checked, at no extra cost to you.',
     filters: 'Filters',
     rating: 'Minimum Rating',
     hourly_rate: 'Maximum Hourly Rate',
@@ -18,7 +18,7 @@ const translations = {
     languages: 'Languages',
     reset: 'Reset',
     no_results: 'No nannies found matching your criteria.',
-    results: 'caregivers found',
+    results: 'nannies found',
   },
   es: {
     browse_nannies: 'Buscar Niñeras',

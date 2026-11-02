@@ -8,7 +8,7 @@ const translations = {
     eyebrow: 'For Business',
     headline: 'On-Demand Childcare for Hotels, Events & Offices',
     subtitle:
-      'Hotels, event planners and corporate offices in Miami can book verified caregivers on demand — not just families at home.',
+      'Hotels, event planners and corporate offices in Miami can book verified nannies on demand — not just families at home.',
     cta: 'Request a Quote',
     who_title: 'Who We Work With',
     who1: 'Hotels & Resorts',
@@ -20,7 +20,7 @@ const translations = {
     who4: 'Conferences & Expos',
     who4_desc: 'Group childcare coverage for multi-day events.',
     diff_title: 'Why Businesses Choose UpaCare',
-    diff1: 'Every caregiver assigned is ID-verified and background-checked — free, included by default.',
+    diff1: 'Every nanny assigned is ID-verified and background-checked — free, included by default.',
     diff2: 'Simple invoicing: one monthly bill instead of managing individual contractor payments.',
     diff3: 'A dedicated account contact for recurring or large-scale bookings.',
     diff4: 'Same-day and last-minute availability filtering built into the platform.',
