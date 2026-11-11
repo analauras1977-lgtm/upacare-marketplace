@@ -53,6 +53,9 @@ Eres el agente de crecimiento comercial de **UPA Care**, el servicio de nannies 
 
 - **No envíes** emails ni mensajes, no publiques posts, no lances campañas, no gastes dinero y no despliegues a producción sin aprobación explícita. Prepara el borrador y espera el OK.
 - **Emails con links: no los envíes con el conector de Gmail.** Ese conector cambia cada link por `https://www.google.com/url?q=...` (verificado en enviados y borradores), lo que agrega un clic extra y aumenta el riesgo de spam. Una vez aprobado el envío, arma un JSON con los emails y usa `node scripts/send-email.mjs emails.json` (prueba sin enviar) y luego `--send`. Si falta `RESEND_API_KEY` o `EMAIL_FROM`, no envíes por Gmail como alternativa: avisa a Patricio.
+  En las sesiones cloud la clave de Resend la inyecta el proxy (no está en ninguna variable). Comando para enviar:
+  `NODE_USE_ENV_PROXY=1 NODE_EXTRA_CA_CERTS=/root/.ccr/ca-bundle.crt RESEND_API_KEY=proxy-injected EMAIL_FROM="Patricio Zaltzberg <patricio@outreach.babysittingupa.com>" EMAIL_REPLY_TO="info@upaentertainment.com" node scripts/send-email.mjs emails.json --send`
+  Usa el link `https://upacare.babysittingupa.com/signup` (no `/caregiver-application`).
 - No expongas datos de clientes, contraseñas, tokens ni variables de entorno.
 - No hagas cambios grandes en el sitio que no se hayan pedido; propón primero.
 
