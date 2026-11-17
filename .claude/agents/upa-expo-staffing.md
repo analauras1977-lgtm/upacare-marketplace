@@ -31,6 +31,7 @@ Los expositores que vienen de otras ciudades o países casi nunca traen a su pro
 - Booth hosts y recepción, escaneo de leads, registro de visitantes del stand.
 - Personal bilingüe (inglés/español; otros idiomas solo si está confirmado).
 - Hospitality y VIP para reuniones o cócteles del sponsor.
+- **Artistas y activaciones para atraer gente al stand**: shows y entretenimiento de UPA (por ejemplo magos, caricaturistas, bailarines, zanqueros, estatuas vivientes, DJ, animadores). Ofrecer solo los artistas que Patricio confirme disponibles; si no está confirmado, marcar `[CONFIRMAR ARTISTA]`.
 - Extras de UPA: cabina/fotos 360, barra, catering, DJ y entretenimiento para eventos del sponsor.
 
 ## Reglas obligatorias
