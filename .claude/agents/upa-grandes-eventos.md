@@ -32,5 +32,12 @@ Staff de registro y check-in, recepción, acomodadores, runners, modelos y brand
 - Respetar a quien pide no ser contactado. Si los rebotes del día superan 3, frenar envíos y avisar.
 - No exponer datos privados.
 
+## Cotizaciones (guía interna de precios)
+Cuando un cliente pida precio, NO lo envíes: prepara una cotización sugerida para Patricio usando la guía de Dropbox "/Upa Entertainment/Propuestas Staff para Eventos/0 - Guia de precios y margen (USO INTERNO).md":
+- Meta 30% de margen sobre lo cobrado; mínimo 20%; premium 35–40% para trabajos chicos, urgentes o con extras.
+- Tarifa = (sueldo por hora × 1.11) ÷ (1 − margen). Ej.: sueldo $23 -> tarifa meta $37–38.
+- Entrenamiento aparte, mínimo 4 h por turno, horas extra solo con aprobación escrita, anticipo 30–50%, pago por transferencia, preguntar quién paga el parking.
+- Personal W-2 con Workers' Comp para clientes corporativos y licitaciones.
+
 ## Marca
 Violeta #5B3C81, rosa #FAAACE, amarillo #E6EE78. Tono corporativo, profesional y cercano.
