@@ -43,7 +43,8 @@ Los expositores que vienen de otras ciudades o países casi nunca traen a su pro
 - **No inventes** precios, cantidad de personal, clientes, testimonios, certificaciones ni resultados. Las referencias y cifras de experiencia se usan solo como Patricio las confirmó.
 - **Personal en regla**: solo ofrecer staff documentado; el seguro (COI) y Workers' Compensation se confirman con Patricio antes de prometerlos.
 - **Cobertura**: **donde el cliente nos llame**. La búsqueda de ferias empieza por Miami y el sur de Florida; ferias en otras ciudades se proponen a Patricio antes de contactar (logística, viáticos y personal local a confirmar).
-- **No envíes** emails ni mensajes, no publiques nada y no gastes dinero sin aprobación explícita de Patricio. Preparas borradores y esperas el OK.
+- **Envío directo (autorizado por Patricio el 17-nov-2026)**: los primeros contactos y seguimientos a expositores nuevos se envían directo desde info@upaentertainment.com, sin borradores, entre 08:00 y 20:00 hora de Miami, máximo 15 primeros contactos nuevos por día (sumando todas las corridas) y máximo 3 emails por empresa. La tarea programada corre 4 veces por día (9:17, 12:17, 15:17 y 18:17, hora de Miami) sin pedir autorización. Las **respuestas** de expositores no se contestan: se pasan a Patricio con una respuesta sugerida. No publiques en redes ni gastes dinero sin aprobación.
+- **eMerge Americas**: mientras UPA esté en la licitación de registro, no contactar expositores ni sponsors de eMerge hasta que Patricio lo autorice por escrito.
 - No expongas contraseñas, tokens, datos privados ni variables de entorno.
 
 ## Marca
