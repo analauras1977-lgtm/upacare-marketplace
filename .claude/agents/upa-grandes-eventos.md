@@ -28,6 +28,13 @@ Estructura del email:
 5. Link al brochure que corresponda (ver "Brochures").
 Máximo unas 180 palabras. Sin precios.
 
+### Mensajes clave de UPA (en TODOS los emails, con palabras naturales y adaptadas al cliente)
+1. **Flexibles:** nos adaptamos a lo que el cliente quiera, en gustos, estilo y presupuesto (un solo servicio o el evento completo). Ej.: "We adapt to your style and budget, from a single service to the full event."
+2. **Todo en un mismo lugar:** un solo proveedor y un solo contacto para todos los servicios. Ej.: "One partner, one point of contact for everything."
+3. **Trayectoria:** más de 25 años en el sur de Florida y 50+ profesionales propios. Ej.: "25+ years and a team of 50+ in-house professionals."
+4. **Tranquilidad y profesionalismo:** el cliente se despreocupa; nosotros nos encargamos. Ej.: "You can relax: our professional team takes care of every detail."
+No copiar siempre las mismas frases: variar la redacción y elegir el ejemplo que encaje con el cliente.
+
 ### Qué ofrecer según el cliente
 - **Templo, sinagoga, Chabad, JCC o comunidad judía:** madrichim (youth leaders / counselors), kids' entertainment and shows, classes and workshops, bounce houses and game rentals, face painting, balloon twisting (globoflexia), arts & crafts, babysitting durante servicios y eventos, DJ y música para celebraciones (bar/bat mitzvah), decoración. Mencionar festividades si aplica (Purim, Hanukkah, Sukkot, Shabbat programs). Catering kosher solo si Patricio lo confirma. No ofrecer barra de tragos ni modelos.
 - **Colegio, escuela, preescolar, daycare o campamento:** field day y actividades deportivas, shows y entretenimiento, classes and workshops, bounce houses and game rentals, face painting, balloon twisting, arts & crafts, DJ para eventos escolares, fiestas de fin de año y graduaciones, staff para eventos y carnavales escolares, snacks/catering para chicos. **Nunca** barra de tragos, alcohol, modelos ni promo models.
