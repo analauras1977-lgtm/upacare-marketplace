@@ -21,7 +21,7 @@ Los expositores que vienen de otras ciudades o países casi nunca traen a su pro
 
 1. **Calendario de ferias**: busca ferias, congresos y convenciones, empezando por Miami-Dade, Broward y Palm Beach (Miami Beach Convention Center, Mana Wynwood, Greater Fort Lauderdale/Broward County Convention Center, hoteles con centros de convenciones, Hard Rock Stadium, etc.). Para cada una: nombre, fechas, sede, URL oficial, si publica lista de expositores y fecha recomendada de contacto.
 2. **Lista de expositores**: solo desde **fuentes públicas** (lista de expositores o sponsors en la web oficial de la feria, LinkedIn, notas de prensa). Para cada empresa: nombre, sitio web, de dónde viene (fuera de Florida = mejor prospecto), contacto público de marketing/eventos si existe, y la fuente. **No adivines emails ni nombres.**
-3. **Prospección**: email corto en inglés, personalizado con la feria y el stand. Oferta concreta + llamada a la acción (responder o WhatsApp). Secuencia de seguimiento a los 3, 7 y 14 días, y frenar si piden no ser contactados.
+3. **Prospección**: email en inglés personalizado con la feria y el stand, armado como dice "Servicios según el cliente", con llamada a la acción (responder o WhatsApp). Secuencia de seguimiento a los 3, 7 y 14 días, y frenar si piden no ser contactados.
 4. **Cotización**: por rol y por hora, con mínimo de horas, horas extra, entrenamiento, uniforme y condiciones de pago. Usa **solo tarifas aprobadas por Patricio**; si no hay, deja `[CONFIRMAR TARIFA]`.
 5. **Deduplicación**: antes de preparar un contacto, busca en Gmail (enviados y todos los hilos) por email, dominio y nombre de la empresa. Si UPA ya la contactó por cualquier tarea (por ejemplo "Captación de clientes nuevos UPA"), no la dupliques.
 6. **Seguimiento**: registra cada prospecto con estado (contactado, respondió, cotizado, cerrado, descartado, no contactar).
@@ -35,6 +35,32 @@ Los expositores que vienen de otras ciudades o países casi nunca traen a su pro
 - Hospitality y VIP para reuniones o cócteles del sponsor.
 - **Artistas y activaciones para atraer gente al stand**: shows y entretenimiento de UPA (por ejemplo magos, caricaturistas, bailarines, zanqueros, estatuas vivientes, DJ, animadores). Ofrecer solo los artistas que Patricio confirme disponibles; si no está confirmado, marcar `[CONFIRMAR ARTISTA]`.
 - Extras de UPA: cabina/fotos 360, barra, catering, DJ y entretenimiento para eventos del sponsor.
+
+## Servicios según el cliente (obligatorio en cada email)
+Cada email (primer contacto y seguimientos) debe mostrar que UPA es un **proveedor integral** y ofrecer los servicios que encajan con ESE cliente. Estructura:
+1. 1–2 líneas personalizadas con un dato verificable del cliente o del evento.
+2. 3 a 5 servicios destacados que encajan con ese tipo de cliente (viñetas cortas).
+3. Una línea "We also provide: ..." con el resto del catálogo que tenga sentido para ese cliente.
+4. Experiencia que encaje (Miami Open, Miami International Boat Show, Time To Drive Fest), "25+ years", personal bilingüe y llamada a la acción (responder, llamada de 15 minutos o WhatsApp).
+Máximo unas 180 palabras. Sin precios.
+
+**Catálogo de UPA (ofrecer solo esto; no inventar servicios):**
+- Event staff: registration/check-in, hosts, ushers, runners, brand ambassadors, promo models, VIP & hospitality, customer service, supervisors, bilingual English/Spanish staff.
+- Entertainment: DJ, live shows and performers (magicians, caricaturists, dancers, stilt walkers, living statues, emcees/hosts). Solo categorías; nunca un artista con nombre si Patricio no lo confirmó.
+- Bar service and catering.
+- Décor and rentals.
+- 360 photo booth, audiovisual and brand activations.
+- Sports activities and team building.
+- Kids' entertainment and babysitting/nannies (UPA Care) para eventos familiares. Nunca "caregivers".
+- Full event planning and production.
+
+**Qué destacar según el tipo de cliente:**
+- **Expositor / sponsor de feria:** staff de stand, promo models, booth hosts, lead scanning, bilingües; artistas o activación para atraer gente al stand; 360; barra, catering y DJ para el cóctel o evento del sponsor.
+- **Organizador de feria, congreso o festival:** registro y check-in, acomodadores, runners, VIP/hospitality, supervisores, bilingües; escenarios y entretenimiento, DJ, shows; barra y catering; decoración y alquileres; 360; kids zone con entretenimiento y babysitting si es un evento familiar.
+- **DMC / PCO / agencia de eventos:** un solo proveedor local en Miami para staff bilingüe, hosts, VIP, entretenimiento, catering, barra, decoración y alquileres.
+- **Asociación o empresa con congreso anual:** registro, hosts, VIP; entretenimiento, DJ, barra y catering para la cena de gala o el networking; team building y actividades deportivas.
+- **Evento deportivo:** hospitality VIP, hosts, runners, entretenimiento en las pausas, DJ, kids zone.
+- **Empresa, condominio, hotel o comunidad:** fiestas corporativas y de fin de año, team building y deportes, eventos comunitarios, DJ, shows, catering, barra, decoración, kids' entertainment y babysitting.
 
 ## Reglas obligatorias
 
