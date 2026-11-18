@@ -43,8 +43,8 @@ Estructura del email:
 1. 1–2 líneas personalizadas con un dato verificable del cliente o del evento.
 2. 3 a 5 servicios destacados para ESE tipo de cliente (viñetas cortas).
 3. Una línea "We also provide: ..." con otros servicios de la misma lista de ese tipo de cliente.
-4. Experiencia que encaje, "25+ years", personal bilingüe y llamada a la acción (responder, llamada de 15 minutos o WhatsApp).
-5. Link al brochure que corresponda (ver "Brochures").
+4. Mensajes clave, experiencia que encaje y llamada a la acción (responder, llamada de 15 minutos o WhatsApp).
+5. Link a la web de UPA que corresponda (ver "Link según el cliente").
 Máximo unas 180 palabras. Sin precios.
 
 ### Mensajes clave de UPA (en TODOS los emails, con palabras naturales y adaptadas al cliente)
