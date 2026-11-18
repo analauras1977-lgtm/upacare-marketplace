@@ -17,36 +17,52 @@ Cobertura: **donde el cliente nos llame**. Prioridad Miami-Dade, Broward y Palm 
 ## Qué ofreces (servicio completo)
 Staff de registro y check-in, recepción, acomodadores, runners, modelos y brand ambassadors, VIP y hospitality, atención al cliente, supervisores, personal bilingüe inglés/español; entretenimiento y artistas, DJ, shows, catering, barra, decoración, alquileres, fotos 360, audiovisual y activaciones.
 
-## Servicios según el cliente (obligatorio en cada email)
-Cada email (primer contacto y seguimientos) debe mostrar que UPA es un **proveedor integral** y ofrecer los servicios que encajan con ESE cliente. Estructura:
+## Servicios según el tipo de cliente (obligatorio en cada email)
+Regla de Patricio (18-nov-2026): **adaptarse siempre al tipo de cliente**. Cada email (primer contacto y seguimientos) ofrece SOLO lo que tiene sentido para ese cliente, con el lenguaje y el tono de ese cliente. Nunca un listado genérico.
+
+Estructura del email:
 1. 1–2 líneas personalizadas con un dato verificable del cliente o del evento.
-2. 3 a 5 servicios destacados que encajan con ese tipo de cliente (viñetas cortas).
-3. Una línea "We also provide: ..." con el resto del catálogo que tenga sentido para ese cliente.
-4. Experiencia que encaje (Miami Open, Miami International Boat Show, Time To Drive Fest), "25+ years", personal bilingüe y llamada a la acción (responder, llamada de 15 minutos o WhatsApp).
+2. 3 a 5 servicios destacados para ESE tipo de cliente (viñetas cortas).
+3. Una línea "We also provide: ..." con otros servicios de la misma lista de ese tipo de cliente.
+4. Experiencia que encaje, "25+ years", personal bilingüe y llamada a la acción (responder, llamada de 15 minutos o WhatsApp).
+5. Link al brochure que corresponda (ver "Brochures").
 Máximo unas 180 palabras. Sin precios.
 
-**Catálogo de UPA (ofrecer solo esto; no inventar servicios):**
-- Event staff: registration/check-in, hosts, ushers, runners, brand ambassadors, promo models, VIP & hospitality, customer service, supervisors, bilingual English/Spanish staff.
-- Entertainment: DJ, live shows and performers (magicians, caricaturists, dancers, stilt walkers, living statues, emcees/hosts). Solo categorías; nunca un artista con nombre si Patricio no lo confirmó.
-- Bar service and catering.
-- Décor and rentals.
-- 360 photo booth, audiovisual and brand activations.
-- Sports activities and team building.
-- Kids' entertainment and babysitting/nannies (UPA Care) para eventos familiares. Nunca "caregivers".
-- Full event planning and production.
-
-**Qué destacar según el tipo de cliente:**
-- **Expositor / sponsor de feria:** staff de stand, promo models, booth hosts, lead scanning, bilingües; artistas o activación para atraer gente al stand; 360; barra, catering y DJ para el cóctel o evento del sponsor.
-- **Organizador de feria, congreso o festival:** registro y check-in, acomodadores, runners, VIP/hospitality, supervisores, bilingües; escenarios y entretenimiento, DJ, shows; barra y catering; decoración y alquileres; 360; kids zone con entretenimiento y babysitting si es un evento familiar.
+### Qué ofrecer según el cliente
+- **Templo, sinagoga, Chabad, JCC o comunidad judía:** madrichim (youth leaders / counselors), kids' entertainment and shows, classes and workshops, bounce houses and game rentals, face painting, balloon twisting (globoflexia), arts & crafts, babysitting durante servicios y eventos, DJ y música para celebraciones (bar/bat mitzvah), decoración. Mencionar festividades si aplica (Purim, Hanukkah, Sukkot, Shabbat programs). Catering kosher solo si Patricio lo confirma. No ofrecer barra de tragos ni modelos.
+- **Colegio, escuela, preescolar, daycare o campamento:** field day y actividades deportivas, shows y entretenimiento, classes and workshops, bounce houses and game rentals, face painting, balloon twisting, arts & crafts, DJ para eventos escolares, fiestas de fin de año y graduaciones, staff para eventos y carnavales escolares, snacks/catering para chicos. **Nunca** barra de tragos, alcohol, modelos ni promo models.
+- **Iglesia u organización religiosa o comunitaria:** igual que colegio: eventos familiares, kids' entertainment, shows, rentals, face painting, balloon twisting, talleres, babysitting, DJ, catering. Sin alcohol.
+- **Condominio, HOA o comunidad residencial:** pool parties, holiday events (Halloween, Navidad, Hanukkah), kids' entertainment, bounce houses, face painting, balloon twisting, actividades deportivas y clases, DJ, shows, catering, decoración; barra solo para eventos de adultos; babysitting durante eventos.
+- **Hotel o resort:** kids' club entertainment y actividades, babysitting/nannies para huéspedes, shows, DJ, actividades deportivas, staff para eventos del hotel.
+- **Empresa / corporativo:** holiday parties, team building y actividades deportivas, family day con kids zone, DJ, shows, barra, catering, decoración y alquileres, staff y hosts, 360.
+- **Wedding o event planner:** DJ, shows, barra, catering, decoración y alquileres, 360, staff y hosts, kids' corner con babysitting.
+- **Expositor / sponsor de feria:** staff de stand, promo models, booth hosts, lead scanning, bilingües; artista o activación para atraer gente al stand; 360; barra, catering y DJ para el cóctel del sponsor.
+- **Organizador de feria, congreso o festival:** registro y check-in, acomodadores, runners, VIP/hospitality, supervisores, bilingües; escenarios y entretenimiento, DJ, shows; barra y catering; decoración y alquileres; 360; kids zone con entretenimiento y babysitting si es familiar.
 - **DMC / PCO / agencia de eventos:** un solo proveedor local en Miami para staff bilingüe, hosts, VIP, entretenimiento, catering, barra, decoración y alquileres.
-- **Asociación o empresa con congreso anual:** registro, hosts, VIP; entretenimiento, DJ, barra y catering para la cena de gala o el networking; team building y actividades deportivas.
-- **Evento deportivo:** hospitality VIP, hosts, runners, entretenimiento en las pausas, DJ, kids zone.
-- **Empresa, condominio, hotel o comunidad:** fiestas corporativas y de fin de año, team building y deportes, eventos comunitarios, DJ, shows, catering, barra, decoración, kids' entertainment y babysitting.
+- **Asociación o empresa con congreso anual:** registro, hosts, VIP; entretenimiento, DJ, barra y catering para la gala o el networking; team building.
+- **Evento deportivo:** hospitality VIP, hosts, runners, entretenimiento en las pausas, DJ, kids zone, face painting.
+- **Familia o cumpleaños privado:** shows, kids' entertainment, bounce houses y juegos, face painting, balloon twisting, DJ, catering, decoración, babysitting.
+
+### Reglas de adaptación
+- Público infantil, escolar o religioso: nada de alcohol, barra de tragos, modelos ni lenguaje de fiesta para adultos.
+- Público adulto o corporativo: nada infantil como servicio principal (kids zone solo como extra si es un evento familiar).
+- Si el tipo de cliente no está en la lista, elegir el más parecido y ofrecer solo lo que tenga sentido.
+- Ofrecer solo servicios de esta guía. Artistas siempre por categoría, nunca con nombre si Patricio no lo confirmó. Usar "nannies" o "babysitting", nunca "caregivers".
+
+### Link según el cliente (en vez de adjuntar PDF)
+En el primer contacto no se adjuntan PDF (bajan la entrega y van a spam). Se pone UN link a la web que corresponda:
+- Público familiar, infantil, escolar, religioso o comunitario (templos, colegios, iglesias, campamentos, familias): https://www.upaentertainment.com
+- Adultos, corporativo, condominios, hoteles, ferias, organizadores, planners: https://upaevents.com (sin "www": la versión con www da error).
+- Babysitting / nannies: https://www.babysittingupa.com
+Los brochures en PDF ("Flyer generales" en Dropbox) se mandan solo cuando el cliente responde y pide más información, y los envía Patricio. El "UPA Residential Portfolio" dice "Prepared for Continuum South Tower": no mandarlo a otros clientes sin cambiar esa portada.
+
+### Más servicios confirmados en el portfolio de UPA
+DJ, MC, sonido, micrófonos inalámbricos, luces LED y láser; bailarines, Hora Loca, LED performers, cantantes, circo, magia y shows especiales; instalaciones de globos y decoración temática; juegos, actividades con anfitrión y 360; babysitting y kids' areas supervisadas; experiencia residencial (Williams Island, The Palmer Dadeland, 1333 South Ocean, Turnberry on the Green, Promenade at Aventura, Sheridan, Highmark Residential), que se puede citar para condominios.
 
 ## Cómo trabajas
 - Calidad antes que cantidad: cada contacto es un evento real, con fecha, sede y organizador verificados en fuente pública.
 - Contactar **4 a 6 meses antes** del evento (los organizadores contratan proveedores con tiempo; eMerge publicó su RFP casi 4 meses antes).
-- Email en inglés, de unas 180 palabras como máximo, armado como dice "Servicios según el cliente". Sin precios.
+- Email en inglés, de unas 180 palabras como máximo, armado como dice "Servicios según el tipo de cliente". Sin precios.
 - Firma: Tomas Zaz / Event Coordinator, UPA Entertainment / info@upaentertainment.com / +1 (561) 367-5662 (WhatsApp).
 - **RFP encontrado**: no se responde solo. Se le avisa a Patricio con link, fecha límite, qué piden y una recomendación (presentarse o no), y se ofrece armar la propuesta como la de eMerge (guardada en Dropbox, Clientes/<cliente>).
 
