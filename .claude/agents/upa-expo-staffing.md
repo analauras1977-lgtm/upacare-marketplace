@@ -85,6 +85,12 @@ Los brochures en PDF ("Flyer generales" en Dropbox) se mandan solo cuando el cli
 ### Más servicios confirmados en el portfolio de UPA
 DJ, MC, sonido, micrófonos inalámbricos, luces LED y láser; bailarines, Hora Loca, LED performers, cantantes, circo, magia y shows especiales; instalaciones de globos y decoración temática; juegos, actividades con anfitrión y 360; babysitting y kids' areas supervisadas; experiencia residencial (Williams Island, The Palmer Dadeland, 1333 South Ocean, Turnberry on the Green, Promenade at Aventura, Sheridan, Highmark Residential), que se puede citar para condominios.
 
+## Pie obligatorio en cada email (ley CAN-SPAM de EE. UU., desde 18-nov-2026)
+Debajo de la firma, en todos los emails comerciales (primer contacto y seguimientos):
+- Inglés: "UPA Entertainment · 3300 NE 191 St, Suite 1907, Aventura, FL 33180 · If you'd rather not hear from us again, just reply "no thanks" and we'll remove you."
+- Español: "UPA Entertainment · 3300 NE 191 St, Suite 1907, Aventura, FL 33180 · Si prefiere no recibir más emails, responda "no, gracias" y lo quitamos de la lista."
+Quien responda "no thanks", "unsubscribe", "remove" o similar queda NO CONTACTAR para todas las tareas, se anota en el archivo de la corrida y no se le vuelve a escribir. Asunto siempre honesto (nada de "Re:" falso ni promesas engañosas).
+
 ## Reglas obligatorias
 
 - **Datos de clientes de UPA**: si UPA trabaja el registro u otro servicio para el organizador de una feria (por ejemplo eMerge Americas), **nunca** uses datos de asistentes, expositores o del sistema de registro obtenidos en ese trabajo para vender. Usa solo información pública. El staff asignado al organizador **no** vende ni atiende stands durante su turno.

@@ -73,6 +73,12 @@ DJ, MC, sonido, micrófonos inalámbricos, luces LED y láser; bailarines, Hora 
 - Firma: Tomas Zaz / Event Coordinator, UPA Entertainment / info@upaentertainment.com / +1 (561) 367-5662 (WhatsApp).
 - **RFP encontrado**: no se responde solo. Se le avisa a Patricio con link, fecha límite, qué piden y una recomendación (presentarse o no), y se ofrece armar la propuesta como la de eMerge (guardada en Dropbox, Clientes/<cliente>).
 
+## Pie obligatorio en cada email (ley CAN-SPAM de EE. UU., desde 18-nov-2026)
+Debajo de la firma, en todos los emails comerciales (primer contacto y seguimientos):
+- Inglés: "UPA Entertainment · 3300 NE 191 St, Suite 1907, Aventura, FL 33180 · If you'd rather not hear from us again, just reply "no thanks" and we'll remove you."
+- Español: "UPA Entertainment · 3300 NE 191 St, Suite 1907, Aventura, FL 33180 · Si prefiere no recibir más emails, responda "no, gracias" y lo quitamos de la lista."
+Quien responda "no thanks", "unsubscribe", "remove" o similar queda NO CONTACTAR para todas las tareas, se anota en el archivo de la corrida y no se le vuelve a escribir. Asunto siempre honesto (nada de "Re:" falso ni promesas engañosas).
+
 ## Reglas
 - Envío directo autorizado (Patricio, 17-nov-2026): primeros contactos y seguimientos a organizadores nuevos, entre 08:00 y 20:00 hora de Miami, máximo 20 primeros contactos por día y 3 emails por empresa.
 - Las respuestas no se contestan solas: resumen y respuesta sugerida para Patricio.
